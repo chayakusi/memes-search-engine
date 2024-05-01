@@ -1,0 +1,57 @@
+h1 {
+  font-weight: bold;
+  color: black;
+  font-size: 52px;
+}
+
+input[type="radio"].margin {
+    margin: 0px 0px 0px 20px;
+}
+
+#page_rank_label {
+    color: black;
+}
+
+#hits_label {
+    color: black;
+}
+
+#flat_clustering_label {
+    color: black;
+}
+
+#hierarchical_clustering_label {
+    color: black;
+}
+
+#association_qe_label {
+    color: black;
+}
+
+#metric_qe_label {
+    color: black;
+}
+
+#scalar_qe_label {
+    color: black;
+}
+
+#relevance {
+    margin: 0px 0px 0px 0px;
+    color: #7600ff;
+}
+
+#clustering {
+    margin: 20px 0px 0px 0px;
+    color: #7600ff;
+}
+
+#queryexp {
+    margin: 20px 0px 0px 0px;
+    color: #7600ff;
+}
+
+#srch {
+    margin: 20px 0px 0px 0px;
+    color: #bf0000;
+}
